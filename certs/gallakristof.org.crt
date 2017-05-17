@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: DC=org, DC=gallakristof, O=Galla Kristof Inc, OU=Galla Kristof Signing CA, CN=Galla Kristof Signing CA
+        Validity
+            Not Before: May 17 08:40:32 2017 GMT
+            Not After : May 17 08:40:32 2019 GMT
+        Subject: DC=org, DC=gallakristof, O=Galla Kristof Inc, CN=www.gallakristof.org
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b7:f4:7b:37:8e:04:ca:9c:89:16:c1:2a:de:28:
+                    1a:19:fa:d2:90:9b:94:69:0d:86:e3:0e:cd:c1:dd:
+                    58:51:ea:67:eb:72:4c:1b:f3:e0:ba:c0:42:6c:59:
+                    ac:fe:00:94:82:05:dc:6e:df:11:18:41:5f:50:bf:
+                    e5:6e:29:aa:a8:39:21:79:b9:6c:e9:22:21:a5:9b:
+                    c0:69:3b:8e:23:82:a0:25:23:63:15:5d:e0:02:9b:
+                    0a:53:ca:1b:24:36:61:ec:24:09:31:c7:3d:6f:e3:
+                    46:d2:bc:2f:a2:09:c3:e9:c1:f9:d0:44:b5:e1:93:
+                    66:c4:7b:83:c5:29:0a:42:47:99:3e:8c:98:87:11:
+                    17:a4:6f:02:cb:54:20:9e:39:75:50:77:9a:60:5b:
+                    36:3c:ad:ce:85:51:d8:a2:4d:29:f3:74:95:31:0f:
+                    f7:27:87:4b:76:25:7e:f8:bd:fd:4a:27:70:57:d7:
+                    05:5d:74:ad:26:9f:28:e8:2a:5e:ae:6d:fa:7b:60:
+                    cf:be:ce:7b:8e:27:72:30:78:d1:bb:69:a4:a8:91:
+                    7f:9a:f5:47:a4:ea:0a:db:14:d6:1a:2f:ec:b6:f6:
+                    3d:5f:07:7d:a5:15:31:6e:05:b9:ea:7d:f0:0a:6b:
+                    2b:86:64:83:7a:f3:1e:92:8c:04:0e:7c:bf:1f:83:
+                    59:7d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Subject Key Identifier: 
+                F6:6E:B5:27:C0:9D:15:10:2C:00:FC:A8:23:EA:AF:3E:A1:3B:C9:F9
+            X509v3 Authority Key Identifier: 
+                keyid:70:D2:B4:E2:FB:FE:A9:EB:F6:F3:3D:9C:ED:6D:B3:7D:8F:F7:65:79
+
+            X509v3 Subject Alternative Name: 
+                DNS:www.simple.org
+    Signature Algorithm: sha1WithRSAEncryption
+         7b:52:81:7f:2f:94:41:74:64:20:94:08:75:ef:ea:14:ca:53:
+         4d:05:5b:20:ed:48:9b:7b:10:b2:88:92:b4:97:ef:9d:88:25:
+         40:c2:b0:7d:d6:34:99:cc:9f:62:d0:d5:34:b2:3e:07:5f:af:
+         14:57:cc:e7:88:94:ad:ca:20:51:60:4f:60:0f:f8:fc:81:e1:
+         0a:ac:61:19:b2:16:e1:fb:0f:50:a7:15:0a:0f:8b:e7:73:71:
+         b5:4f:04:75:11:fe:75:cb:4f:d2:06:5c:5a:a8:71:d0:14:f7:
+         75:4d:57:cc:70:16:2f:80:82:01:8f:f5:85:db:49:62:11:14:
+         2b:83:3b:00:97:1b:83:1d:3b:bf:28:b4:4c:86:b8:1a:6b:be:
+         f2:14:10:0b:8f:4f:6a:9d:88:ea:de:ba:ca:3d:57:42:a3:90:
+         06:84:d3:2b:c6:d5:dc:f0:03:7e:38:bb:30:a4:0f:b9:96:e3:
+         44:d1:da:60:40:19:b4:ac:eb:a7:9f:c4:a2:6f:9e:5f:ab:79:
+         4a:54:21:e0:62:b6:97:73:07:12:ba:cb:66:3d:2d:f4:db:70:
+         4c:1b:90:57:23:5c:2a:88:bf:9a:e0:8c:4f:41:2d:56:93:2d:
+         f3:ef:cd:20:15:16:62:d6:10:30:d8:ff:2f:68:28:d4:3a:ea:
+         17:4d:71:dd
+-----BEGIN CERTIFICATE-----
+MIIEGDCCAwCgAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBlTETMBEGCgmSJomT8ixk
+ARkWA29yZzEcMBoGCgmSJomT8ixkARkWDGdhbGxha3Jpc3RvZjEaMBgGA1UECgwR
+R2FsbGEgS3Jpc3RvZiBJbmMxITAfBgNVBAsMGEdhbGxhIEtyaXN0b2YgU2lnbmlu
+ZyBDQTEhMB8GA1UEAwwYR2FsbGEgS3Jpc3RvZiBTaWduaW5nIENBMB4XDTE3MDUx
+NzA4NDAzMloXDTE5MDUxNzA4NDAzMlowbjETMBEGCgmSJomT8ixkARkWA29yZzEc
+MBoGCgmSJomT8ixkARkWDGdhbGxha3Jpc3RvZjEaMBgGA1UECgwRR2FsbGEgS3Jp
+c3RvZiBJbmMxHTAbBgNVBAMMFHd3dy5nYWxsYWtyaXN0b2Yub3JnMIIBIjANBgkq
+hkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt/R7N44EypyJFsEq3igaGfrSkJuUaQ2G
+4w7Nwd1YUepn63JMG/PgusBCbFms/gCUggXcbt8RGEFfUL/lbimqqDkhebls6SIh
+pZvAaTuOI4KgJSNjFV3gApsKU8obJDZh7CQJMcc9b+NG0rwvognD6cH50ES14ZNm
+xHuDxSkKQkeZPoyYhxEXpG8Cy1Qgnjl1UHeaYFs2PK3OhVHYok0p83SVMQ/3J4dL
+diV++L39SidwV9cFXXStJp8o6Cperm36e2DPvs57jidyMHjRu2mkqJF/mvVHpOoK
+2xTWGi/stvY9Xwd9pRUxbgW56n3wCmsrhmSDevMekowEDny/H4NZfQIDAQABo4GY
+MIGVMA4GA1UdDwEB/wQEAwIFoDAJBgNVHRMEAjAAMB0GA1UdJQQWMBQGCCsGAQUF
+BwMBBggrBgEFBQcDAjAdBgNVHQ4EFgQU9m61J8CdFRAsAPyoI+qvPqE7yfkwHwYD
+VR0jBBgwFoAUcNK04vv+qev28z2c7W2zfY/3ZXkwGQYDVR0RBBIwEIIOd3d3LnNp
+bXBsZS5vcmcwDQYJKoZIhvcNAQEFBQADggEBAHtSgX8vlEF0ZCCUCHXv6hTKU00F
+WyDtSJt7ELKIkrSX752IJUDCsH3WNJnMn2LQ1TSyPgdfrxRXzOeIlK3KIFFgT2AP
++PyB4QqsYRmyFuH7D1CnFQoPi+dzcbVPBHUR/nXLT9IGXFqocdAU93VNV8xwFi+A
+ggGP9YXbSWIRFCuDOwCXG4MdO78otEyGuBprvvIUEAuPT2qdiOreuso9V0KjkAaE
+0yvG1dzwA344uzCkD7mW40TR2mBAGbSs66efxKJvnl+reUpUIeBitpdzBxK6y2Y9
+LfTbcEwbkFcjXCqIv5rgjE9BLVaTLfPvzSAVFmLWEDDY/y9oKNQ66hdNcd0=
+-----END CERTIFICATE-----
